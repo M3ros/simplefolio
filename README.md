@@ -42,7 +42,7 @@ git@2.30.1 or higher
 ```
 
 Also, you can use [Yarn](https://yarnpkg.com/) instead of NPM ☝️
-
+npx update-browserslist-db@latest
 ```
 yarn@v1.22.10 or higher
 ```
